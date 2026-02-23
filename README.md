@@ -1,5 +1,16 @@
-# LLM-CRYPTO-BENCH
+# LLM Crypto Extension: Interactive Analytics Dashboard (In Progress)
+🚧 Ongoing Extension 🚧
 
+This repository is an independent extension of a collaborative academic project exploring the use of LLMs in cryptographic reasoning and problem-solving tasks.
+This extension aims to:
+ - Transform static benchmark results into an interactive dashboard
+ - Improve interpretability and comparative analysis of model performance
+- Enhance data storytelling and visualization design
+- Provide a more intuitive exploration layer for LLM-based crypto signals
+
+Development is ongoing!
+
+# Original Academic Benchmark (Fall 2025)
 Benchmarking framework for evaluating Large Language Models (LLMs) on cryptography-related reasoning and problem-solving tasks.
 
 ## Project Overview
